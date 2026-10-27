@@ -1,0 +1,6 @@
+{
+  "name": "Vũ Điệu Nhạc Nước & Laser Tên - Water Fountain Symphony",
+  "description": "Trò chơi biểu diễn nhạc nước 3D tương tác giọng hát: Hát càng to nước phun càng cao, chiếu laser tên người chơi lên màn nước và nhận voucher nhà hàng giá trị.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
